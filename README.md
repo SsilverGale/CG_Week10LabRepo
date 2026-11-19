@@ -1,6 +1,6 @@
 Reference: https://youtu.be/Ec_48EEkMgU?si=s4t1kCSJ7FuYPoV_ 
 
-Video of what it looks like: https://youtu.be/VvajVVVfCeI 
+Video of what it looks like: [https://youtu.be/VvajVVVfCeI ](https://youtu.be/zXbxenSrcl0)
 
 Shader Graph
 
