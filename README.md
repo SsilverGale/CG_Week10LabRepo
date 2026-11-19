@@ -12,8 +12,7 @@ So the first effect is the outer glass shell, created by the "noise set up group
 sharpen the edges. This creates the edges of our glass and is used add a white border to the glass as well a creating a bump map. 
 
 The second effect is the rainbow slime. I wanted it to be red in the middle then go through the colors of the rainbow. I did this by having
-a gradient that when through the rainbow and deciding the color value off of the dot product of the normal vector and view direction. Using
-the normal vector here, it ends up creating a sort of light refracting effects.
+a gradient that when through the rainbow and deciding the color value off of the dot product of the normal vector and view direction.
 
 The 0 value for the gradient is also black. I did this so I could plug the color into the alpha so that the black would be transparent.
 This is what gives us that encased look that there is a gap between the outer glass and the inner slime.
