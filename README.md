@@ -1,3 +1,5 @@
+<img width="378" height="398" alt="SlimeBoy" src="https://github.com/user-attachments/assets/34a92f6e-d17e-4ed2-b9c7-a983e08f6153" />
+
 Reference: https://youtu.be/Ec_48EEkMgU?si=s4t1kCSJ7FuYPoV_ 
 
 Video of what it looks like: [https://youtu.be/VvajVVVfCeI ](https://youtu.be/zXbxenSrcl0)
